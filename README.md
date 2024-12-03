@@ -1,4 +1,4 @@
-## Hi, I’m Ahmad Sarhan, bachelor's 3rd year student at Innopolis University and ICPC world finalist.
+## Hi, I’m Ahmad Sarhan, bachelor's 4th year student at Innopolis University and ICPC world finalist.
   - I’m interested in competitive programming, back-end development.
   - You can reach me on my telegram account @Ahmad_Sarhan.
 
